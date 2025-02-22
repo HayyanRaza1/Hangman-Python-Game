@@ -62,5 +62,5 @@ python hangman.py
 This project is open-source and available under the MIT License.
 
 ## Author
-Developed by [Your Name]. Feel free to contribute or reach out for suggestions!
+Developed by Syed Hayyan Raza. Feel free to contribute or reach out for suggestions!
 
