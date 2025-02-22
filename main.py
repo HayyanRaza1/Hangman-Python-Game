@@ -69,3 +69,4 @@ new_game_button.pack()
 
 new_game()
 root.mainloop()
+# C:\Users\ICS\Desktop\Hangman Game\src\hangman.ico
